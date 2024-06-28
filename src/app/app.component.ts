@@ -28,7 +28,6 @@ export class AppComponent implements OnInit{
         dateOfBirth:patient.DateOfBirth
       }
     })
-    // console.log(this.convertDataSet())
     this.loading = false
   }
   
