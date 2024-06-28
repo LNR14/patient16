@@ -1,0 +1,677 @@
+export function getGridData() {
+return [
+    {
+        "MRN": "4NK2TV1KA36",
+        "firstName": "Delora",
+        "lastName": "Semarke",
+        "transactionDate": "01/01/2024",
+        "encounterNumber": 7,
+        "DateOfBirth": "07/08/2011",
+        "location": "Tetovo",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8MA5GP6CV87",
+        "firstName": "Maryrose",
+        "lastName": "Furmston",
+        "transactionDate": "05/06/2024",
+        "encounterNumber": 5,
+        "DateOfBirth": "24/05/1985",
+        "location": "Mueang Suang",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "7X87KC4TQ45",
+        "firstName": "Corrie",
+        "lastName": "Dugald",
+        "transactionDate": "05/02/2024",
+        "encounterNumber": 1,
+        "DateOfBirth": "24/09/2020",
+        "location": "Madona",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5PA7NF1GU48",
+        "firstName": "Gladi",
+        "lastName": "Mackiewicz",
+        "transactionDate": "25/09/2023",
+        "encounterNumber": 10,
+        "DateOfBirth": "05/12/2001",
+        "location": "Mekarjaya Satu",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5WN3VH9MP25",
+        "firstName": "Alis",
+        "lastName": "Ramble",
+        "transactionDate": "22/04/2024",
+        "encounterNumber": 8,
+        "DateOfBirth": "07/04/2021",
+        "location": "Sadowie",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "7X15K66QD31",
+        "firstName": "Kippy",
+        "lastName": "Eltringham",
+        "transactionDate": "26/07/2023",
+        "encounterNumber": 7,
+        "DateOfBirth": "18/05/1972",
+        "location": "Sarpsborg",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4MX6WC3KJ82",
+        "firstName": "Donn",
+        "lastName": "Bengall",
+        "transactionDate": "15/09/2023",
+        "encounterNumber": 1,
+        "DateOfBirth": "14/01/2012",
+        "location": "Sapphaya",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "1VP3A30JA96",
+        "firstName": "Hyacinth",
+        "lastName": "Noweak",
+        "transactionDate": "17/01/2024",
+        "encounterNumber": 8,
+        "DateOfBirth": "06/02/2002",
+        "location": "Dugu",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8CW4GP4AV28",
+        "firstName": "Putnem",
+        "lastName": "Caughey",
+        "transactionDate": "09/04/2024",
+        "encounterNumber": 10,
+        "DateOfBirth": "04/03/2019",
+        "location": "Burgau",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4UU2HP9GC21",
+        "firstName": "Fifi",
+        "lastName": "Flasby",
+        "transactionDate": "07/04/2024",
+        "encounterNumber": 6,
+        "DateOfBirth": "13/08/2010",
+        "location": "Tân Trụ",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "1W23PJ3QM31",
+        "firstName": "Lorena",
+        "lastName": "Forrington",
+        "transactionDate": "08/12/2023",
+        "encounterNumber": 3,
+        "DateOfBirth": "19/03/1991",
+        "location": "San Marcos",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8DF7UT2PA87",
+        "firstName": "Reynolds",
+        "lastName": "Busby",
+        "transactionDate": "08/10/2023",
+        "encounterNumber": 8,
+        "DateOfBirth": "01/08/1986",
+        "location": "Cabiao",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "7YC3Q18PQ84",
+        "firstName": "Richie",
+        "lastName": "Dobrowlski",
+        "transactionDate": "05/07/2023",
+        "encounterNumber": 7,
+        "DateOfBirth": "06/07/2012",
+        "location": "Larkird",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5HV3X28QV23",
+        "firstName": "Gwenni",
+        "lastName": "Brayne",
+        "transactionDate": "15/08/2023",
+        "encounterNumber": 6,
+        "DateOfBirth": "19/02/2020",
+        "location": "Beijing",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "2K68UP4YG58",
+        "firstName": "Sylvia",
+        "lastName": "Luto",
+        "transactionDate": "18/11/2023",
+        "encounterNumber": 7,
+        "DateOfBirth": "13/11/1996",
+        "location": "Grodzisk Mazowiecki",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "2C16UF6FK68",
+        "firstName": "Alexine",
+        "lastName": "Benneyworth",
+        "transactionDate": "15/06/2024",
+        "encounterNumber": 7,
+        "DateOfBirth": "26/05/1992",
+        "location": "Saga-shi",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4KQ9DV5WE07",
+        "firstName": "Mitch",
+        "lastName": "Glenfield",
+        "transactionDate": "08/03/2024",
+        "encounterNumber": 5,
+        "DateOfBirth": "14/11/2004",
+        "location": "Musawa",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "9HK8TY8PE45",
+        "firstName": "Shepherd",
+        "lastName": "Stubbes",
+        "transactionDate": "19/09/2023",
+        "encounterNumber": 2,
+        "DateOfBirth": "17/05/2020",
+        "location": "Lousa",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4CX1QQ9CF02",
+        "firstName": "Hirsch",
+        "lastName": "Cadany",
+        "transactionDate": "13/10/2023",
+        "encounterNumber": 9,
+        "DateOfBirth": "12/11/1983",
+        "location": "Velké Pavlovice",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "2DM3WH1YA52",
+        "firstName": "Manny",
+        "lastName": "Blaine",
+        "transactionDate": "14/10/2023",
+        "encounterNumber": 8,
+        "DateOfBirth": "04/12/2011",
+        "location": "Lodoyo",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5HR2D47TY16",
+        "firstName": "Gordie",
+        "lastName": "Bartlomieczak",
+        "transactionDate": "13/10/2023",
+        "encounterNumber": 8,
+        "DateOfBirth": "30/10/1975",
+        "location": "Cerna",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8TP2KH3JF37",
+        "firstName": "Tierney",
+        "lastName": "Jeaves",
+        "transactionDate": "14/05/2024",
+        "encounterNumber": 5,
+        "DateOfBirth": "20/09/2013",
+        "location": "Krmelín",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6HC5T96FF67",
+        "firstName": "Bale",
+        "lastName": "Kiessel",
+        "transactionDate": "21/08/2023",
+        "encounterNumber": 7,
+        "DateOfBirth": "19/11/2005",
+        "location": "Malayal",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8G94VF6GP25",
+        "firstName": "Vernon",
+        "lastName": "Precious",
+        "transactionDate": "26/06/2024",
+        "encounterNumber": 1,
+        "DateOfBirth": "07/06/1987",
+        "location": "Ljungbyholm",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "9D64PC1WP57",
+        "firstName": "Alexine",
+        "lastName": "Raincin",
+        "transactionDate": "29/02/2024",
+        "encounterNumber": 1,
+        "DateOfBirth": "23/08/2009",
+        "location": "Primorsk",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "7CR2RP9QU99",
+        "firstName": "Nicky",
+        "lastName": "Hrishchenko",
+        "transactionDate": "27/01/2024",
+        "encounterNumber": 5,
+        "DateOfBirth": "02/10/1972",
+        "location": "Shejiang",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6WD0KM4RV45",
+        "firstName": "Cherry",
+        "lastName": "Schwaiger",
+        "transactionDate": "04/03/2024",
+        "encounterNumber": 3,
+        "DateOfBirth": "05/10/1985",
+        "location": "Vila Chã",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8KH3WN3FJ11",
+        "firstName": "Curtis",
+        "lastName": "Vearncomb",
+        "transactionDate": "28/02/2024",
+        "encounterNumber": 7,
+        "DateOfBirth": "05/12/1994",
+        "location": "Arnhem",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "9Q28K10MX35",
+        "firstName": "Fredelia",
+        "lastName": "Pigny",
+        "transactionDate": "30/06/2023",
+        "encounterNumber": 2,
+        "DateOfBirth": "09/03/1998",
+        "location": "Vide",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5HW9PE3QA79",
+        "firstName": "Roobbie",
+        "lastName": "Warboys",
+        "transactionDate": "24/07/2023",
+        "encounterNumber": 3,
+        "DateOfBirth": "14/01/1977",
+        "location": "Machinda",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "7C83MD7KP36",
+        "firstName": "Emile",
+        "lastName": "Muggleton",
+        "transactionDate": "01/10/2023",
+        "encounterNumber": 1,
+        "DateOfBirth": "01/10/2005",
+        "location": "Jijia",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "9JH1HV1MK56",
+        "firstName": "Ganny",
+        "lastName": "Forshaw",
+        "transactionDate": "15/05/2024",
+        "encounterNumber": 8,
+        "DateOfBirth": "11/12/1980",
+        "location": "Chennai",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "3CF6XE8VH02",
+        "firstName": "Gayleen",
+        "lastName": "Balassa",
+        "transactionDate": "14/07/2023",
+        "encounterNumber": 2,
+        "DateOfBirth": "14/12/2005",
+        "location": "Chaihe",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5UM4U35WP06",
+        "firstName": "Merl",
+        "lastName": "Curphey",
+        "transactionDate": "27/07/2023",
+        "encounterNumber": 9,
+        "DateOfBirth": "31/10/1990",
+        "location": "Lyon",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "1CM9KV6MR30",
+        "firstName": "Kahlil",
+        "lastName": "Rusted",
+        "transactionDate": "27/09/2023",
+        "encounterNumber": 8,
+        "DateOfBirth": "30/04/1989",
+        "location": "Chiara",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4PN1WK8QX54",
+        "firstName": "Guillemette",
+        "lastName": "Crosskell",
+        "transactionDate": "17/11/2023",
+        "encounterNumber": 6,
+        "DateOfBirth": "14/03/1984",
+        "location": "Aktsyabrski",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "2QW0QT6VU33",
+        "firstName": "Klara",
+        "lastName": "Woodhall",
+        "transactionDate": "01/02/2024",
+        "encounterNumber": 7,
+        "DateOfBirth": "26/09/2004",
+        "location": "Bijaepasu",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "2HU5U05JT46",
+        "firstName": "Flory",
+        "lastName": "Dibden",
+        "transactionDate": "18/08/2023",
+        "encounterNumber": 6,
+        "DateOfBirth": "01/01/1984",
+        "location": "Acarí",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5QR3YX9VX15",
+        "firstName": "Ezri",
+        "lastName": "Leonard",
+        "transactionDate": "16/03/2024",
+        "encounterNumber": 8,
+        "DateOfBirth": "29/09/1971",
+        "location": "Taochuan",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8V88Q49YV23",
+        "firstName": "Kennedy",
+        "lastName": "Brackenbury",
+        "transactionDate": "16/08/2023",
+        "encounterNumber": 3,
+        "DateOfBirth": "30/05/2022",
+        "location": "Calabaca",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6DW1UU5NH74",
+        "firstName": "Collete",
+        "lastName": "Giroldi",
+        "transactionDate": "19/04/2024",
+        "encounterNumber": 2,
+        "DateOfBirth": "09/07/1974",
+        "location": "Marly-le-Roi",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6EV9G25VY30",
+        "firstName": "Gilberto",
+        "lastName": "Fishbourn",
+        "transactionDate": "18/07/2023",
+        "encounterNumber": 1,
+        "DateOfBirth": "24/01/2011",
+        "location": "Fudian",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4QM3MP3XC07",
+        "firstName": "Remy",
+        "lastName": "Ordemann",
+        "transactionDate": "15/01/2024",
+        "encounterNumber": 8,
+        "DateOfBirth": "17/12/1976",
+        "location": "Ḩāfiz̧ Moghul",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6PN3MD3NF23",
+        "firstName": "Bobinette",
+        "lastName": "Bonifant",
+        "transactionDate": "02/03/2024",
+        "encounterNumber": 1,
+        "DateOfBirth": "17/05/2014",
+        "location": "Berëzovka",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5QE8U96XF64",
+        "firstName": "Gabie",
+        "lastName": "Thyng",
+        "transactionDate": "02/07/2023",
+        "encounterNumber": 9,
+        "DateOfBirth": "26/08/2001",
+        "location": "Kathu",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6MY7HJ1RQ18",
+        "firstName": "Vachel",
+        "lastName": "Bruckenthal",
+        "transactionDate": "29/02/2024",
+        "encounterNumber": 1,
+        "DateOfBirth": "03/10/2017",
+        "location": "Chennai",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "8PV3EX2HM34",
+        "firstName": "Curry",
+        "lastName": "Evans",
+        "transactionDate": "19/08/2023",
+        "encounterNumber": 5,
+        "DateOfBirth": "19/01/2007",
+        "location": "Týnec",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "5W42UF8QC66",
+        "firstName": "Adoree",
+        "lastName": "Lafayette",
+        "transactionDate": "27/01/2024",
+        "encounterNumber": 3,
+        "DateOfBirth": "30/05/2022",
+        "location": "Marilao",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "4P47YJ2NK94",
+        "firstName": "Cindi",
+        "lastName": "Cheek",
+        "transactionDate": "02/12/2023",
+        "encounterNumber": 10,
+        "DateOfBirth": "16/10/2000",
+        "location": "Jishi",
+        "RecentVisit": "30/05/2024"
+    },
+    {
+        "MRN": "6FX3PW6JH97",
+        "firstName": "Bernie",
+        "lastName": "Glashby",
+        "transactionDate": "18/03/2024",
+        "encounterNumber": 2,
+        "DateOfBirth": "13/02/1988",
+        "location": "Chahe",
+        "RecentVisit": "30/05/2024"
+    }
+]
+  }
+
+export function getChartData(){
+  return [{"location_id":1,"location":"Dallas","revenue":"$193625.34","date":"2024-05"},
+    {"location_id":2,"location":"Dallas","revenue":"$447350.44","date":"2024-04"},
+    {"location_id":3,"location":"Jacksonville","revenue":"$691193.78","date":"2024-02"},
+    {"location_id":4,"location":"Houston","revenue":"$606896.56","date":"2024-06"},
+    {"location_id":5,"location":"Philadelphia","revenue":"$221547.56","date":"2023-09"},
+    {"location_id":6,"location":"Los Angeles","revenue":"$568328.80","date":"2023-10"},
+    {"location_id":7,"location":"Houston","revenue":"$563231.40","date":"2024-03"},
+    {"location_id":8,"location":"San Jose","revenue":"$296969.07","date":"2024-05"},
+    {"location_id":9,"location":"Indianapolis","revenue":"$583796.09","date":"2024-03"},
+    {"location_id":10,"location":"Columbus","revenue":"$178792.52","date":"2023-07"},
+    {"location_id":11,"location":"New York City","revenue":"$247086.43","date":"2023-07"},
+    {"location_id":12,"location":"San Diego","revenue":"$181796.77","date":"2023-09"},
+    {"location_id":13,"location":"Jacksonville","revenue":"$202977.43","date":"2023-12"},
+    {"location_id":14,"location":"Jacksonville","revenue":"$446092.75","date":"2024-06"},
+    {"location_id":15,"location":"Columbus","revenue":"$172986.39","date":"2023-07"},
+    {"location_id":16,"location":"San Diego","revenue":"$278675.46","date":"2023-11"},
+    {"location_id":17,"location":"Chicago","revenue":"$602043.04","date":"2024-05"},
+    {"location_id":18,"location":"San Jose","revenue":"$220802.01","date":"2024-04"},
+    {"location_id":19,"location":"Phoenix","revenue":"$696128.02","date":"2024-06"},
+    {"location_id":20,"location":"Phoenix","revenue":"$481684.22","date":"2023-10"},
+    {"location_id":21,"location":"San Francisco","revenue":"$465298.08","date":"2023-08"},
+    {"location_id":22,"location":"New York City","revenue":"$478207.15","date":"2023-07"},
+    {"location_id":23,"location":"New York City","revenue":"$695808.98","date":"2023-11"},
+    {"location_id":24,"location":"San Diego","revenue":"$254767.59","date":"2024-03"},
+    {"location_id":25,"location":"San Antonio","revenue":"$419529.91","date":"2024-05"},
+    {"location_id":26,"location":"Philadelphia","revenue":"$689418.34","date":"2024-06"},
+    {"location_id":27,"location":"New York City","revenue":"$291677.12","date":"2024-05"},
+    {"location_id":28,"location":"Houston","revenue":"$410357.24","date":"2024-04"},
+    {"location_id":29,"location":"Dallas","revenue":"$462374.77","date":"2024-05"},
+    {"location_id":30,"location":"Chicago","revenue":"$586699.07","date":"2023-08"},
+    {"location_id":31,"location":"Jacksonville","revenue":"$695699.51","date":"2024-06"},
+    {"location_id":32,"location":"Los Angeles","revenue":"$253233.07","date":"2023-09"},
+    {"location_id":33,"location":"San Jose","revenue":"$196230.31","date":"2023-11"},
+    {"location_id":34,"location":"Chicago","revenue":"$630857.66","date":"2024-04"},
+    {"location_id":35,"location":"San Antonio","revenue":"$560831.73","date":"2023-10"},
+    {"location_id":36,"location":"Dallas","revenue":"$596328.92","date":"2023-12"},
+    {"location_id":37,"location":"San Jose","revenue":"$492500.01","date":"2023-08"},
+    {"location_id":38,"location":"Los Angeles","revenue":"$490067.58","date":"2023-11"},
+    {"location_id":39,"location":"New York City","revenue":"$370101.33","date":"2024-05"},
+    {"location_id":40,"location":"Los Angeles","revenue":"$622317.52","date":"2023-09"},
+    {"location_id":41,"location":"Houston","revenue":"$301609.72","date":"2023-08"},
+    {"location_id":42,"location":"Jacksonville","revenue":"$182369.23","date":"2024-04"},
+    {"location_id":43,"location":"Dallas","revenue":"$595783.49","date":"2024-05"},
+    {"location_id":44,"location":"Indianapolis","revenue":"$359030.62","date":"2023-12"},
+    {"location_id":45,"location":"Houston","revenue":"$431113.34","date":"2024-02"},
+    {"location_id":46,"location":"Dallas","revenue":"$478592.08","date":"2024-06"},
+    {"location_id":47,"location":"San Antonio","revenue":"$178204.80","date":"2023-11"},
+    {"location_id":48,"location":"Houston","revenue":"$309645.87","date":"2024-03"},
+    {"location_id":49,"location":"Columbus","revenue":"$505626.71","date":"2023-12"},
+    {"location_id":50,"location":"Columbus","revenue":"$319490.58","date":"2024-06"},
+    {"location_id":51,"location":"Austin","revenue":"$614822.97","date":"2023-08"},
+    {"location_id":52,"location":"Jacksonville","revenue":"$577065.20","date":"2024-04"},
+    {"location_id":53,"location":"San Jose","revenue":"$166748.88","date":"2024-03"},
+    {"location_id":54,"location":"Jacksonville","revenue":"$319184.35","date":"2024-06"},
+    {"location_id":55,"location":"Los Angeles","revenue":"$509076.02","date":"2023-09"},
+    {"location_id":56,"location":"Los Angeles","revenue":"$331985.93","date":"2024-04"},
+    {"location_id":57,"location":"Austin","revenue":"$594511.84","date":"2023-12"},
+    {"location_id":58,"location":"Los Angeles","revenue":"$502049.92","date":"2024-05"},
+    {"location_id":59,"location":"Philadelphia","revenue":"$302311.44","date":"2023-09"},
+    {"location_id":60,"location":"Indianapolis","revenue":"$185424.58","date":"2023-10"},
+    {"location_id":61,"location":"Philadelphia","revenue":"$355582.32","date":"2023-09"},
+    {"location_id":62,"location":"Los Angeles","revenue":"$294720.27","date":"2024-02"},
+    {"location_id":63,"location":"Houston","revenue":"$510102.19","date":"2023-12"},
+    {"location_id":64,"location":"Indianapolis","revenue":"$493153.61","date":"2024-01"},
+    {"location_id":65,"location":"Indianapolis","revenue":"$241052.69","date":"2023-08"},
+    {"location_id":66,"location":"Dallas","revenue":"$569491.42","date":"2024-06"},
+    {"location_id":67,"location":"San Jose","revenue":"$281500.83","date":"2023-09"},
+    {"location_id":68,"location":"Los Angeles","revenue":"$429398.45","date":"2023-08"},
+    {"location_id":69,"location":"San Antonio","revenue":"$261382.06","date":"2023-10"},
+    {"location_id":70,"location":"Los Angeles","revenue":"$561200.15","date":"2024-05"},
+    {"location_id":71,"location":"Dallas","revenue":"$550449.16","date":"2023-09"},
+    {"location_id":72,"location":"San Antonio","revenue":"$249892.18","date":"2024-04"},
+    {"location_id":73,"location":"Phoenix","revenue":"$553769.41","date":"2024-03"},
+    {"location_id":74,"location":"San Antonio","revenue":"$348029.41","date":"2024-02"},
+    {"location_id":75,"location":"Houston","revenue":"$671209.93","date":"2024-03"},
+    {"location_id":76,"location":"San Antonio","revenue":"$549892.59","date":"2024-01"},
+    {"location_id":77,"location":"New York City","revenue":"$267673.96","date":"2023-11"},
+    {"location_id":78,"location":"San Francisco","revenue":"$272574.23","date":"2023-11"},
+    {"location_id":79,"location":"San Francisco","revenue":"$540241.49","date":"2023-10"},
+    {"location_id":80,"location":"Los Angeles","revenue":"$387810.87","date":"2024-05"},
+    {"location_id":81,"location":"San Diego","revenue":"$582866.82","date":"2023-12"},
+    {"location_id":82,"location":"San Francisco","revenue":"$421652.40","date":"2023-10"},
+    {"location_id":83,"location":"Los Angeles","revenue":"$690895.57","date":"2023-12"},
+    {"location_id":84,"location":"Chicago","revenue":"$520006.85","date":"2023-09"},
+    {"location_id":85,"location":"San Antonio","revenue":"$663128.55","date":"2024-02"},
+    {"location_id":86,"location":"Columbus","revenue":"$445032.07","date":"2023-11"},
+    {"location_id":87,"location":"New York City","revenue":"$689551.77","date":"2024-01"},
+    {"location_id":88,"location":"Columbus","revenue":"$585502.68","date":"2024-05"},
+    {"location_id":89,"location":"Dallas","revenue":"$651441.87","date":"2023-08"},
+    {"location_id":90,"location":"Los Angeles","revenue":"$235264.37","date":"2023-09"},
+    {"location_id":91,"location":"Philadelphia","revenue":"$409492.20","date":"2023-10"},
+    {"location_id":92,"location":"San Antonio","revenue":"$443232.01","date":"2023-08"},
+    {"location_id":93,"location":"San Francisco","revenue":"$406308.63","date":"2024-02"},
+    {"location_id":94,"location":"New York City","revenue":"$319007.42","date":"2024-02"},
+    {"location_id":95,"location":"San Francisco","revenue":"$353594.50","date":"2024-01"},
+    {"location_id":96,"location":"San Jose","revenue":"$231780.79","date":"2024-06"},
+    {"location_id":97,"location":"Los Angeles","revenue":"$444139.25","date":"2024-01"},
+    {"location_id":98,"location":"Dallas","revenue":"$471306.56","date":"2023-08"},
+    {"location_id":99,"location":"Houston","revenue":"$343896.25","date":"2023-09"},
+    {"location_id":100,"location":"San Francisco","revenue":"$619020.48","date":"2024-04"}]
+}
+
+export function getLoungeData() {
+  return [
+    {
+      time: new Date("01 Jan 2020 "),
+      sensor: 25,
+    },
+    {
+      time: new Date("02 Jan 2020"),
+      sensor: 24,
+    },
+    {
+      time: new Date("03 Jan 2020"),
+      sensor: 24,
+    },
+    {
+      time: new Date("04 Jan 2020"),
+      sensor: 23,
+    },
+    {
+      time: new Date("05 Jan 2020"),
+      sensor: 22.5,
+    },
+    {
+      time: new Date("06 Jan 2020"),
+      sensor: 21.5,
+    },
+    {
+      time: new Date("07 Jan 2020 "),
+      sensor: 22.5,
+    },
+  ];
+}
+
+export function getOfficeData() {
+  return [
+    {
+      time: Date.parse("01 Jan 2020"),
+      sensor: 21,
+    },
+    {
+      time: Date.parse("02 Jan 2020"),
+      sensor: 22,
+    },
+    {
+      time: Date.parse("04 Jan 2020"),
+      sensor: 22,
+    },
+    {
+      time: Date.parse("06 Jan 2020"),
+      sensor: 23,
+    },
+    {
+      time: Date.parse("07 Jan 2020"),
+      sensor: 24,
+    },
+    {
+      time: Date.parse("08 Jan 2020"),
+      sensor: 24,
+    },
+    {
+      time: Date.parse("10 Jan 2020"),
+      sensor: 24.5,
+    },
+    {
+      time: Date.parse("12 Jan 2020"),
+      sensor: 24.5,
+    },
+  ];
+}
